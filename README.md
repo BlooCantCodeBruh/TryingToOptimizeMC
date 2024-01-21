@@ -1,6 +1,6 @@
-# TryingToOptimizeMC
+# TryingToOptimizeMC_1.20.1
 
-You read the title, so here are some tips on how to optimize Minecraft
+You read the title, so here are some tips on how to optimize Minecraft 1.20.1
 
 Optimizing Java
 =
@@ -32,14 +32,29 @@ Setting the allocation absurdly high doesnt do anything, since most of it is unu
 
 This tweak will reduce some stutters, but also will increase RAM + CPU usage, and small fps gain at best.
 
-For 1.16.5 and up you need to choose Java 17, below requires Java 8
+For 1.12.2 below require java 8, above require Java 17
 
 Here are 2 runtimes you can choose from, both are Java 17
 
-Oracle GraalVM Enterprise Edition
-(https://www.oracle.com/java/technologies/downloads/#graalvmjava17-windows)
+### Oracle GraalVM Enterprise Edition
 
-Azul's Prime OpenJDK (linux only and incompatible with some mods)
-(https://docs.azul.com/prime/prime-quick-start-tar)
+[Download](https://www.oracle.com/java/technologies/downloads/#graalvmjava17-windows)
 
-For more info go to <https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks>
+### Azul's Prime OpenJDK (linux only and incompatible with some mods)
+
+[Download](https://www.azul.com/downloads/#prime)
+
+For more info go to [Here](https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks)
+
+### Flags
+
+These flags run with any Java 11+ build
+
+```-XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:+UseVectorCmov -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -XX:AllocatePrefetchStyle=3```
+
+Credits go this github repository https://github.com/brucethemoose/Minecraft-Performance-Flags-Benchmarks
+
+### Process priority
+
+
+
