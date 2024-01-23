@@ -16,7 +16,7 @@ To add more ram in Minecraft launcher:
  5. Find -Xmx2G
  6. Change the number to how much ram you want to allocate
 
-Most clients or launchers have memory allocation in settings or installation settings.
+Most clients or launchers have memory allocation in settings or installation settings
 
 ### How much should I allocate with how many mods i have?
 
@@ -34,6 +34,8 @@ This tweak will reduce some stutters, but also will increase RAM + CPU usage, an
 
 For 1.12.2 below require java 8, above require Java 17
 
+**This will only work with launchers like Prism and MultiMC, This doesnt work on vanilla launcher**
+
 Here are 2 runtimes you can choose from, both are Java 17
 
 ### Oracle GraalVM Enterprise Edition
@@ -48,7 +50,7 @@ For more info go to [Here](https://github.com/brucethemoose/Minecraft-Performanc
 
 ### Flags
 
-These flags run with any Java 11+ build
+These Flags run with any Java 11+ build
 
 ```-XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysActAsServerClassMachine -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:+UseNUMA -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:+UseVectorCmov -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -XX:AllocatePrefetchStyle=3```
 
@@ -56,11 +58,22 @@ For more info go to this repository: https://github.com/brucethemoose/Minecraft-
 
 ### Process priority
 
+Process priority feature is intended for managing what processes have a higher priority for resources
+
+Here's how to do it:
+
+ 1. Launch Minecraft
+ 2. Open task manager
+ 3. go to details
+ 4. Find javaw.exe
+ 5. go to "Set priority", and set to it to above normal
+
+![image1.png](https://github.com/BlooCantCodeBruh/TryingToOptimizeMC/blob/main/image1/Image1.png)
 
 Mods
 =
 
-Mods can change how the game works, here are performance mods that can ### reduce lagspikes and increase FPS
+Mods can change how the game works, here are performance mods that can reduce lagspikes and increase FPS
 
 Notes
 =
