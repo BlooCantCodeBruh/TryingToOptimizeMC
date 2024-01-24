@@ -75,6 +75,39 @@ Mods
 
 Mods can change how the game works, here are performance mods that can reduce lagspikes and increase FPS
 
+**These mods only work with the Fabric and Quilt NOT forge**
+
+Here's a download with a zipped folder with all of the mods (and libraries)
+
+https://www.mediafire.com/file/tm6zuahxvpkjt8l/mods_1.20.1_%2528fabric%2529.zip/file
+
+List with all the mods
+
+ - BadOptimizations
+ - betterfpsdist mod
+ - CompleteConfig
+ - C2ME
+ - cupboard
+ - Enchanced block entities
+ - EntityCulling
+ - Exordium
+ - FastAnim
+ - FerriteCore
+ - FPS reducer
+ - ImmediatelyFast
+ - kennytv's epic force close loading screen
+ - Krypton
+ - LazyDFU
+ - MemoryLeakFix
+ - Methane
+ - ModernFix
+ - More Culling
+ - Fabric Kotlin library
+ - Fabric API
+ - Reese's Sodium options
+ - Sodium
+ - Sodium extra
+
 Notes
 =
 
