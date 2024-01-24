@@ -79,34 +79,38 @@ Mods can change how the game works, here are performance mods that can reduce la
 
 Here's a download with a zipped folder with all of the mods (and libraries)
 
-https://www.mediafire.com/file/tm6zuahxvpkjt8l/mods_1.20.1_%2528fabric%2529.zip/file
+https://www.mediafire.com/file/wxi9jc8j7x7c1tj/mcmods1.20.1%2528fabric%2529.zip/file
 
-List with all the mods
+### List with all the mods
 
- - BadOptimizations
- - betterfpsdist mod
- - CompleteConfig
- - C2ME
- - cupboard
- - Enchanced block entities
- - EntityCulling
- - Exordium
- - FastAnim
- - FerriteCore
- - FPS reducer
- - ImmediatelyFast
- - kennytv's epic force close loading screen
- - Krypton
- - LazyDFU
- - MemoryLeakFix
- - Methane
- - ModernFix
- - More Culling
- - Fabric Kotlin library
- - Fabric API
- - Reese's Sodium options
- - Sodium
- - Sodium extra
+ - [BadOptimizations](https://modrinth.com/mod/badoptimizations) by Thosea
+ - [betterfpsdist mod](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric) by Someaddon
+ - [C2ME](https://modrinth.com/mod/c2me-fabric) by ishland and duplexsystem
+ - [Enchanced block entities](https://modrinth.com/mod/ebe) by FoundationGames
+ - [EntityCulling](https://modrinth.com/mod/entityculling) by tr7zw
+ - [Exordium](https://modrinth.com/mod/exordium) by tr7zw
+ - [FastAnim](https://modrinth.com/mod/fastanim) by Lunade_
+ - [FerriteCore](https://modrinth.com/mod/ferrite-core) by malte0811
+ - [FPS reducer](https://modrinth.com/mod/fps-reducer) by bre2el
+ - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) by RaphiMC
+ - [kennytv's epic force close loading screen](https://modrinth.com/mod/forcecloseworldloadingscreen) by kennytv
+ - [Krypton](https://modrinth.com/mod/krypton) by astei
+ - [LazyDFU](https://modrinth.com/mod/lazydfu) by astei
+ - [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) by FX and KingContaria
+ - [Methane](https://modrinth.com/mod/methane) by AnOpenSauceDev
+ - [ModernFix](https://modrinth.com/mod/modernfix) by embeddedt
+ - [More Culling](https://modrinth.com/mod/moreculling) by FX
+ - [Reese's Sodium options](https://modrinth.com/mod/reeses-sodium-options) by FlashyReese
+ - [Sodium](https://modrinth.com/mod/sodium) by jellysquid3
+ - [Sodium extra](https://modrinth.com/mod/sodium-extra) by FlashyReese
+
+### Libraries
+
+ - [Cloth config](https://modrinth.com/mod/cloth-config) by shedaniel
+ - [Fabric API](https://modrinth.com/mod/fabric-api) by modmuss50 and sfPlayer1
+ - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) by modmuss50 and sfPlayer1
+ - [cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) by someaddon
+ - [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig) by Lortseam_
 
 Notes
 =
