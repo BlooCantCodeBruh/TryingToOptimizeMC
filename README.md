@@ -75,9 +75,9 @@ Choosing a mod Loader
 
 There are 3 modloaders:
 
-Forge
-Fabric
-Quilt
+ - Forge
+ - Fabric
+ - Quilt
 
 Fabric and quilt is recommended since most newer performance mods only work on Fabric or Quilt, and works faster for most people
 
