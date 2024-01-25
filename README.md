@@ -130,4 +130,9 @@ Notes
 
 Launchers like Prism and Multimc have a "update mods option", by the time you see this repository, most of the mods are outdated.
 
+Disable sodium's entity culling in graphics settings, the mod is better than sodium's enity culling
+
+![image](https://github.com/BlooCantCodeBruh/TryingToOptimizeMC/assets/139488947/a24d107a-b4d8-4a5d-b85c-7bec4d69aca2)
+
+
 
