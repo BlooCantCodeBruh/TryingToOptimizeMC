@@ -128,5 +128,6 @@ https://www.mediafire.com/file/wxi9jc8j7x7c1tj/mcmods1.20.1%2528fabric%2529.zip/
 Notes
 =
 
+Launchers like Prism and Multimc have a "update mods option", by the time you see this repository, most of the mods are outdated.
 
 
