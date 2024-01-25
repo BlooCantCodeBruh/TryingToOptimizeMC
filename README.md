@@ -70,6 +70,19 @@ Here's how to do it:
 
 ![image1.png](https://github.com/BlooCantCodeBruh/TryingToOptimizeMC/blob/main/image1/Image1.png)
 
+Choosing a mod Loader
+=
+
+There are 3 modloaders:
+
+Forge
+Fabric
+Quilt
+
+Fabric and quilt is recommended since most newer performance mods only work on Fabric or Quilt, and works faster for most people
+
+Forge is way older so it has more mods or modpacks, but most of the mods are on older versions
+
 Mods
 =
 
