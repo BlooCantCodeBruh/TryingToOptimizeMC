@@ -92,7 +92,7 @@ Mods can change how the game works, here are performance mods that can reduce la
 
 Here's a download with a zipped folder with all of the mods (and libraries)
 
-https://www.mediafire.com/file/wxi9jc8j7x7c1tj/mcmods1.20.1%2528fabric%2529.zip/file
+[Download](https://github.com/BlooCantCodeBruh/TryingToOptimizeMC/releases/download/v1/mcmods1.20.1.fabric.zip)
 
 ### List with all the mods
 
@@ -133,6 +133,8 @@ Launchers like Prism and Multimc have a "update mods option", by the time you se
 Disable sodium's entity culling in graphics settings, the mod is better than sodium's enity culling
 
 ![image](https://github.com/BlooCantCodeBruh/TryingToOptimizeMC/assets/139488947/a24d107a-b4d8-4a5d-b85c-7bec4d69aca2)
+
+
 
 
 
