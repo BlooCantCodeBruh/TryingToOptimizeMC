@@ -11,7 +11,9 @@ My specs are
  - CPU: Intel celeron N4020
  - RAM: 4gb 2400mhz
 
-As you can see my pc is very bad, but with these tweaks i still got around 100 FPS
+As you can see my pc is very bad, but with these tweaks i got around 100 FPS
+
+![2024-01-26_21 16 42](https://github.com/BlooCantCodeBruh/TryingToOptimizeMC/assets/139488947/6c5d627c-4e9f-4c2f-a659-8a45679a42ea)
 
 Optimizing Java
 =
@@ -118,7 +120,6 @@ Here's a download with a zipped folder with all of the mods (and libraries)
  - [FPS reducer](https://modrinth.com/mod/fps-reducer) by bre2el
  - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) by RaphiMC
  - [kennytv's epic force close loading screen](https://modrinth.com/mod/forcecloseworldloadingscreen) by kennytv
- - [Krypton](https://modrinth.com/mod/krypton) by astei
  - [LazyDFU](https://modrinth.com/mod/lazydfu) by astei
  - [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix) by FX and KingContaria
  - [Methane](https://modrinth.com/mod/methane) by AnOpenSauceDev
