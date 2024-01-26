@@ -2,6 +2,17 @@
 
 You read the title, so here are some tips on how to optimize Minecraft 1.20.1
 
+Results
+=
+
+My specs are
+
+ -GPU: Intel uhd 600 (integrated gpu)
+ -CPU: Intel celeron N4020
+ -RAM: 4gb 2400mhz
+
+As you can see my pc is very bad, but with these tweaks i still got around 100 FPS
+
 Optimizing Java
 =
 ### Allocating RAM
@@ -133,8 +144,6 @@ Launchers like Prism and Multimc have a "update mods option", by the time you se
 Disable sodium's entity culling in graphics settings, the mod is better than sodium's enity culling
 
 ![image](https://github.com/BlooCantCodeBruh/TryingToOptimizeMC/assets/139488947/a24d107a-b4d8-4a5d-b85c-7bec4d69aca2)
-
-
 
 
 
