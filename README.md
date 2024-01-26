@@ -7,9 +7,9 @@ Results
 
 My specs are
 
- -GPU: Intel uhd 600 (integrated gpu)
- -CPU: Intel celeron N4020
- -RAM: 4gb 2400mhz
+ - GPU: Intel uhd 600 (integrated gpu)
+ - CPU: Intel celeron N4020
+ - RAM: 4gb 2400mhz
 
 As you can see my pc is very bad, but with these tweaks i still got around 100 FPS
 
