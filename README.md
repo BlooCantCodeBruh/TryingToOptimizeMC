@@ -1,6 +1,6 @@
 # TryingToOptimizeMC_1.20.1
 
-You read the title, so here are some tips on how to optimize Minecraft 1.20.1
+You read the title, so here are some tips on how to optimize performance in Minecraft 1.20.1
 
 Results
 =
@@ -140,7 +140,15 @@ Here's a download with a zipped folder with all of the mods (and libraries)
 Settings
 =
 
-Optimizing settings is not hard and gives a great FPS boost.
+Optimizing settings is not hard and gives a great FPS boost
+
+### Render distance
+
+Setting the optimal render distance is very important, if it's too high it's gonna lag alot, but setting it too low makes you not able to see very far, so here are some recommendations.
+
+Low end PCs: 2-6 chunks
+Mid end PCs: 8-16 chunks 
+High end PCs: 16-32 chunks
 
 Notes
 =
