@@ -137,6 +137,11 @@ Here's a download with a zipped folder with all of the mods (and libraries)
  - [cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) by someaddon
  - [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig) by Lortseam_
 
+Settings
+=
+
+Optimizing settings is not hard and gives a great FPS boost.
+
 Notes
 =
 
