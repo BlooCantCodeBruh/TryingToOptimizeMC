@@ -115,7 +115,6 @@ Here's a download with a zipped folder with all of the mods (and libraries)
  - [Enchanced block entities](https://modrinth.com/mod/ebe) by FoundationGames
  - [EntityCulling](https://modrinth.com/mod/entityculling) by tr7zw
  - [Exordium](https://modrinth.com/mod/exordium) by tr7zw
- - [FastAnim](https://modrinth.com/mod/fastanim) by Lunade_
  - [FerriteCore](https://modrinth.com/mod/ferrite-core) by malte0811
  - [FPS reducer](https://modrinth.com/mod/fps-reducer) by bre2el
  - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) by RaphiMC
@@ -137,15 +136,6 @@ Here's a download with a zipped folder with all of the mods (and libraries)
  - [cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) by someaddon
  - [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig) by Lortseam_
 
-Settings
-=
-
-This is pretty simple, if you want the highest FPS, just set everything to lowest.
-
-Here are 2 different profiles for settings
-
- - Highest FPS
- - Balanced 
 
 Notes
 =
