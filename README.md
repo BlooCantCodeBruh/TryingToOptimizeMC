@@ -43,11 +43,11 @@ Setting the allocation absurdly high doesnt do anything, since most of it is unu
 
 ### Choosing a Java Runtime
 
-This tweak will reduce some stutters, but also will increase RAM + CPU usage, and small fps gain at best.
+**This will only work with launchers like Prism and MultiMC, This doesnt work on vanilla launcher or clients**
+
+This tweak will reduce stutters, but also will increase RAM + CPU usage, and small fps gain at best.
 
 For 1.12.2 below require java 8, above require Java 17
-
-**This will only work with launchers like Prism and MultiMC, This doesnt work on vanilla launcher**
 
 Here are 2 runtimes you can choose from, both are Java 17
 
@@ -86,7 +86,7 @@ Here's how to do it:
 Choosing a mod Loader
 =
 
-There are 3 modloaders:
+There are 3 popular modloaders to choose from:
 
  - Forge
  - Fabric
