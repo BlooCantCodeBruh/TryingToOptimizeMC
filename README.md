@@ -33,17 +33,11 @@ Most clients or launchers have memory allocation in settings or installation set
 
 ### How much should I allocate with how many mods i have?
 
- With 100-200 mods: 4gb - 6gb 
+ If you have elss than 4 gb of ram, if you have more than that refrain from going above 4-6 gb since setting it really high doesn't really do anything because most of it is unused
 
- With 200+ mods: 8gb 
+### Choosing a Java Runtime 
 
-More mods = More RAM
-
-Setting the allocation absurdly high doesnt do anything, since most of it is unused
-
-### Choosing a Java Runtime
-
-**This will only work with launchers like Prism and MultiMC, This doesnt work on vanilla launcher or clients**
+**This will only work with launchers like Prism and MultiMC, This doesnt work on vanilla launcher or clients(lunar already does it for you)**
 
 This tweak will reduce stutters, but also will increase RAM + CPU usage, and small fps gain at best.
 
@@ -82,6 +76,8 @@ Here's how to do it:
  5. go to "Set priority", and set to it to above normal
 
 ![image1.png](https://github.com/BlooCantCodeBruh/TryingToOptimizeMC/blob/main/image1/Image1.png)
+
+# Mods
 
 Choosing a mod Loader
 =
