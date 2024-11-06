@@ -77,8 +77,6 @@ Here's how to do it:
 
 ![image1.png](https://github.com/BlooCantCodeBruh/TryingToOptimizeMC/blob/main/image1/Image1.png)
 
-# Mods
-
 Choosing a mod Loader
 =
 
